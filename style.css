@@ -1,7 +1,7 @@
-body {
-    background: lightyellow;
-    font: 18px Arial, sans-serif;
-}
+html {
+    background: url("BG image.jpg") no-repeat center fixed;
+    background-size: cover;
+  }
 h1 {
-    color: orange;
+        text-shadow: 2px 2px 5px blue;
 }
